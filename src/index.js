@@ -1,3 +1,3 @@
 import "./style.css";
 
-console.log ("Javascript template");
+console.log("Javascript template");
